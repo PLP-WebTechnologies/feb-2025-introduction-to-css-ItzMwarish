@@ -1,1 +1,40 @@
 
+.title {
+  font-size: xx-large;
+  font-weight: bold;
+  color: #ede4ea;
+  text-align: center;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+h2 {
+  font-size: x-large;
+  font-weight: bold;
+  color: #fdf8fb;
+}
+
+body {
+  background-color: #7d6778;
+  margin: 40px 90px 0 90px;
+
+  font-family: cursive;
+}
+li {
+  font-size: large;
+  color: #fdf8fb;
+  font-weight: bold;
+  list-style-type: square;
+  text-decoration: wavy;
+}
+img {
+  width: 90%;
+  height: auto;
+  border-style: double;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+#info {
+  font-size: large;
+  font-weight: bold;
+  color: #fdf8fb;
+  padding-bottom: 5px;
+}
